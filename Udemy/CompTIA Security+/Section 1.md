@@ -1,0 +1,33 @@
+- Welcome to the Course
+	- Goals:
+		- Assess the security posture of an enterprise environment
+		- Recommend & implement appropriate security solutions
+		- Monitor & secure hybrid compute environments
+		- Identify, analyze, & respond to security events
+		- Assessing understanding of governance, risk, and compliance
+	- Pre-reqs:
+		- A+
+		- Network+
+		- 2 years of IT/software/hardware
+	- Test 
+		- 5 domains of knowledge
+			- 1) General Security Concepts (12%)
+			- 2) Threats, Vulnerabilities, & Mitigations (22%)
+			- 3) Security Architecture (18%)
+			- 4) Security Operations (28%)
+			- 5) Security Program Management & Oversight (20%)
+		- Each domain has different objectives
+		- 90 minutes for up to 90 questions
+			- Most are multiple choice
+			- A couple are multi-selection multiple choice
+			- 3-5 PBQs (Performance Based Question) aka Simulations
+			- You must score at least 750 out of 900 points to pass
+- Exam Tips
+	- No trick questions
+	- 1 question is usually a distractor/red-herring
+	- If word is in bold/italics/all caps pay extra attention
+	- There may be multiple "right" answers choose the most right
+	- Do not memorize rather understand
+	- Everything will be vendor neutral and generic
+- Speed of learning
+	- 1-2 hours a day and ready within 30 days (Start 10-07-26)![[Pasted image 20261008200240.png|581]]

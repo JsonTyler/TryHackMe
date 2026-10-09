@@ -1,0 +1,15 @@
+- Fundamentals of Security
+	- Balance of convenience & security
+	- 
+- Threats & Vulnerabilities
+- Confidentiality (OBJ 1.2)
+- Integrity (OBJ 1.2)
+- Availability (OBJ 1.2)
+- Non-repudiation (OBJ 1.2)
+- Authentication (OBJ 1.2)
+- Authorization (OBJ 1.2)
+- Accounting (OBJ 1.2)
+- Security Control Categories (OBJ 1.1)
+- Security Control Types (OBJ 1.1)
+- Zero Trust (OBJ 1.2)
+- Gap Analysis (OBJ 1.2)

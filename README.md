@@ -1,1 +1,1 @@
-Just some notes while going through the modules
+My journey self-teaching myself cyber-security
