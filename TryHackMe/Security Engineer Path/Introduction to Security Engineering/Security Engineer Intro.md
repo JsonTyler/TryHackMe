@@ -1,0 +1,36 @@
+- What is a Security Engineer?
+	- The Role of a Security Engineer
+		- Owns the overall security of an organization. The main person responsible for securing an organization's digital assets.
+		- Ensures that the organization's cyber security risk is minimized at all times.
+		- Devises strategies and creates systems that minimize the risk posed by cyber security threats to an organization.
+		- Periodically conducts tests to ensure the robustness of the cyber security posture of an organization, identifies weak points, and prepares mitigations.
+		- Develops and implements secure network solutions.  
+		- Architects and engineers trustworthy, reliable, and secure systems.
+		- Collaborates and coordinates with other teams to establish security protocols across the organization.
+	- Qualifications Required for a Security Engineer
+		- 0-2 years of experience with IT administration, helpdesk, networks or security operations.
+		- Basic understanding of computer networks, operating systems, and programming.
+		- Basic understanding of security concepts such as Governance, Risk and Compliance (GRC).
+- Core Responsibilities of a Security Engineer
+	- Asset Management/Asset Inventory
+		- In terms of cyber security, this will mean managing and maintaining an inventory of an organization's digital assets. 
+		- Security engineers can only own an organization's security if they know what assets the organization has. They must also ensure that this asset inventory is regularly maintained and updated and includes all the required information about assets such as asset name, type, IP addresses, physical location, place in the network, applications running on an asset, access permissions (only within the organization or public-facing), and the asset owner details.
+	- Security Policies
+		- Organiziations need robust security policies to have a good security posture
+		- Security engineers help organizaitons create security policies based on established [Security Principles](https://tryhackme.com/room/securityprinciples)
+			- Org wide principles
+		- Secure by Design
+			- A security engineer ensures that the organization is secure by design
+	- Security Assessment & Assurance
+		- To mitigate risks from a continuously evolving threat landscape, a security engineer plans to conduct regular security assessments, audits, and red-teaming and purple-teaming exercises to continuously improve the security posture. 
+		- While security engineers might not be performing assessments and audits themselves, they are primarily involved in helping schedule these activities, creating Request for Quotations (RFQs) for external parties to perform these activities, and helping prioritize and implement the findings from them.
+- Continuous Improvement
+	- Ensuring Awareness
+	- Managing Risk
+	- Change Management
+	- Vulnerability Management
+	- Compliance & Audits
+- Additional Roles & Responsibilities
+	- Managing Security Tooling
+	- Tabletop Exercises
+	- Disaster Recovery & Crisis Management
