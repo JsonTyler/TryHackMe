@@ -1,0 +1,35 @@
+- Try Hack Me
+	- Phising Analysis Fundamentals Room
+		- Introduction
+			- Spam & Phising are the most common social engineering threats facing modern organizations
+		- The Email Address
+			- Background
+				- Email was popularized in the 1970s on ARPANET by Ray Tomlinson who introduced the `@` symbol to separate the user from the destination system
+			- Anatomy of an Email Address
+				- Username
+				- `@` symbol
+				- Domain name
+		- Email Delivery
+			- Protocols
+					- An email uses several different protocols
+					- SMTP (Simple Mail Transfer Protocol): Sends emails
+					- POP3 (Post Office Protocol): Downloads emails to a device
+					- IMAP (Internet Message Access Protocol): Syncs emails across devices
+			- An Email's Journey
+					- User sends an email: The sender’s email client sends the message to their mail server using SMTP
+					- Mail server queries DNS: The sending server asks DNS for the recipient domain’s mail server
+					- DNS responds: DNS returns the address of the recipient’s mail server
+					- Email is delivered: The message is sent across the Internet to the recipient’s server
+					- The recipient checks their mailbox: The recipient’s email client connects to their mail server
+					- Email is retrieved: The message is downloaded (POP3) or synced (IMAP) to the recipient’s device
+		- Email Headers
+			- Email header: Contains metadata about the message, such as sender & the servers involved in delivery
+			- Can go to "View > View Source" for more info like IP address
+		- Email Body
+			- Email body: Contains the actual message content, which may be plain text or HTML
+			- Viewing source of body can show us:
+				- Content-Type, Content-Disposition, Content-Transfer-Encoding
+			- The base 64 if that's the content type can be decoded with cyber chef or a pdf 
+		- Types of Phishing
+			- 
+	- Phising Emails in Action Room
