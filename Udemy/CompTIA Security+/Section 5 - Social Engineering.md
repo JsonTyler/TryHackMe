@@ -29,7 +29,42 @@
 			- Email body: Contains the actual message content, which may be plain text or HTML
 			- Viewing source of body can show us:
 				- Content-Type, Content-Disposition, Content-Transfer-Encoding
-			- The base 64 if that's the content type can be decoded with cyber chef or a pdf 
-		- Types of Phishing
-			- 
+			- The base 64 if that's the content type can be decoded with [cyber chef](https://gchq.github.io/CyberChef/) or a [pdf analyzer/converter](https://www.apivoid.com/tools/base64-to-pdf/)
+				- defang ip addresses and from 64 was used in lab
 	- Phising Emails in Action Room
+		- Cancel Your Order
+			- Phishing Techniques Used
+				- Spoofed email address: Mimicking a trusted service to gain immediate credibility
+				- URL shortening: Using redirection services to hide the true destination of a link
+				- Branded HTML: Impersonating legitimate corporate imagery to create a sense of authenticity
+		- Track Your Package
+			- Phishing Techniquest Used
+				- Spoofed email address: Mimicking a trusted distribution center to gain immediate credibility
+				- Pixel tracking: Embedding invisible images to notify the sender when the email is opened
+				- Link manipulation: Masking a malicious destination with a fraudulent tracking number
+			- URLs can also be defanged by cyberchef
+		- Download Document Here
+			- **Phishing Techniques Used**
+				- Artificial urgency: Creating a narrow window for action to create a sense of urgency
+				- Brand impersonation: Layering trusted brands, like Microsoft and Adobe, to build a false sense of security
+				- Link redirection: Using a chain of URLs to hide the final malicious destination from basic email filters
+				- Credential harvesting: Deploying a fake login portal to capture and exfiltrate usernames and passwords
+		- Your Account is on Hold
+			- Phishing Techniques Used
+				- Spoofed email address: The sender's display name is set to Netllx billing to appear legitimate
+				- Sense of urgency: Using a suspended account notification to pressure the victim into acting quickly
+				- Brand impersonation: Utilizing HTML templates and logos to mimic Netflix billing
+				- Poor grammar and typos: Noticeable misspellings of Netflix
+				- Attachments: Using a file attachment rather than a direct link to hide the malicious URL
+		- Your Recent Purchase
+			- Phishing Techniques Used
+				- Spoofed email address: The sender's display name is set to Apple Support
+				- Recipient is BCCed: The victim is not directly sent the email
+				- Urgency: Relies on the use of Action Required and a fake purchase notification
+				- Poor grammar and typos: Noticeable spelling errors within the email header
+				- Attachments: The email contains a [.dot](https://www.reviversoft.com/en/file-extensions/dot) file (Microsoft Word Template), which is an unusual format for a receipt
+		- Scheduled Shipment
+			- Phishing Techniques Used
+				- Spoofed email address: The sender's display name is set to `DHL Express`
+				- **Brand impersonation: Utilizing HTML templates and logos to mimic DHL**
+				- **Attachments: An Excel document that triggers executable code upon open**ing
